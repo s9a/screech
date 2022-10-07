@@ -9,6 +9,7 @@ function dyemond(taurus, cap) {}
 function lava(tory, aqua) {}
 function porpoise(crab, leo) {}
 function charm(virgo, gem) {}
+function juice(virgo, crab) {}
 function agate(libra, cancer) {}
 function jasper(libra, leo) {}
 function jumpstart(leo, aries) {}
