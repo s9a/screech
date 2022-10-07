@@ -8,7 +8,6 @@ function eruption(aries, cap) {}
 function dyemond(taurus, cap) {}
 function lava(tory, aqua) {}
 function porpoise(crab, leo) {}
-
 function charm(virgo, gem) {}
 function agate(libra, cancer) {}
 function jasper(libra, leo) {}
@@ -24,3 +23,6 @@ function firefly(aqua, sag) {}
 function batterfly(gem, aqua) {}
 function butterfly(gem, fish) {}
 function astral(crab, fish) {}
+function dread(crab, fish) {}
+function shell(crab, fish) {}
+function tortoise(crab, fish) {}
