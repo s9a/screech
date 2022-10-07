@@ -5,13 +5,22 @@ function screech(callback) {
 }
 
 function eruption(aries, cap) {}
+function dyemond(taurus, cap) {}
+function lava(tory, aqua) {}
 function porpoise(crab, leo) {}
-function sapphire(scorp, jade) {}
-function horsepower(sag, jade) {}
+
+function charm(virgo, gem) {}
+function agate(libra, cancer) {}
+function jasper(libra, leo) {}
 function jumpstart(leo, aries) {}
 function giraffe(leo, taurus) {}
+function sapphire(scorp, jade) {}
+function horsepower(sag, jade) {}
 function eagle(sag, libra) {}
+function grant(cap, libra) {}
 function elephant(cap, scorp) {}
+function distortion(aqua, scorp) {}
 function firefly(aqua, sag) {}
 function batterfly(gem, aqua) {}
 function butterfly(gem, fish) {}
+function astral(crab, fish) {}
